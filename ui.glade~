@@ -13,7 +13,7 @@
       <object class="GtkStack" id="stack">
         <property name="visible">True</property>
         <property name="can-focus">False</property>
-        <property name="transition-type">crossfade</property>
+        <property name="transition-type">slide-up-down</property>
         <child>
           <object class="GtkBox" id="view_login">
             <property name="visible">True</property>
